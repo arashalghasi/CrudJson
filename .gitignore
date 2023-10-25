@@ -1,5 +1,4 @@
 ﻿# Ignores EveryThing
-
 *
 
 # Not Ignore
@@ -9,4 +8,4 @@
 !.gitignore
 !LICENSE
 !*.
-!*.png
+!*.jpg
