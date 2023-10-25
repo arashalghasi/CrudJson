@@ -1,0 +1,2198 @@
+[
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000500",
+    "ItalianName": "Pane al malto",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000500",
+    "ScientificName": "",
+    "EnglishName": "Malted bread",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "26.0",
+        "Procedures": "Drying",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "278",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1163",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "8.3",
+        "Procedures": "Protein calculated from total nitrogen",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "2.4",
+        "Procedures": "Solvent extraction",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "56.6",
+        "Procedures": "Carbohydrate, available calculated from sugar and starch",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T. Food Composition Data- production, management and use Elsevier Applied Science London and New York, 1992"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "27.7",
+        "Procedures": "Enzyme hydrolysis",
+        "DataSource": "A",
+        "Reference": "ENGLYST H. N., ANDERSON V. E CUMMINGS J. H. Starch and non-starch polysaccharides in some cereal foods J. Sci. Food Agric. 34, 1434-1440, 1983"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "26.1",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "SOUTHGATE D.A.T. Determination of food carbohydrates London: Applied Science Publishers, 1976"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "5.5",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Sodio (mg)",
+        "ValueFor100g": "280",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Potassio (mg)",
+        "ValueFor100g": "280",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "110",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "160",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "2.8",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.45",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.13",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Niacina (mg)",
+        "ValueFor100g": "2.80",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "tr",
+        "Procedures": "High-performance liquid chromatography",
+        "DataSource": "A",
+        "Reference": "Albal\u00E0 Hurtado, S., Novella-Rodriguez, Veciana-Nogu\u00E9s, M. T., Marin\u00E9-Font, A. Determination of vitamins A and E in infant milk formulae by highperformance liquid chromatography. Journal of Chromatography A, 778(1\u20132), p. 243\u2013246; 1997"
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0147",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING"
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "H0754",
+        "Info": "BARLEY MALT ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "12",
+      "Fat": "8",
+      "Carbohydrate": "76",
+      "Fiber": "4",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000600",
+    "ItalianName": "Pane azzimo",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000600",
+    "ScientificName": "",
+    "EnglishName": "Bread, unleavened",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "4.5",
+        "Procedures": "Drying",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "365",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1528",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "10.7",
+        "Procedures": "Protein calculated from total nitrogen",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "1.0",
+        "Procedures": "Solvent extraction",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Colesterolo (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "81.7",
+        "Procedures": "Carbohydrate, available calculated from sugar and starch",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T. Food Composition Data- production, management and use Elsevier Applied Science London and New York, 1992"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "72.5",
+        "Procedures": "Enzyme hydrolysis",
+        "DataSource": "A",
+        "Reference": "ENGLYST H. N., ANDERSON V. E CUMMINGS J. H. Starch and non-starch polysaccharides in some cereal foods J. Sci. Food Agric. 34, 1434-1440, 1983"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "1.9",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "SOUTHGATE D.A.T. Determination of food carbohydrates London: Applied Science Publishers, 1976"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "3.5",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra solubile (g)",
+        "ValueFor100g": "1.57",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra insolubile (g)",
+        "ValueFor100g": "1.89",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0819",
+        "Info": "UNLEAVENED BREAD, CRISP BREAD AND RUSK (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0105",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING, THICKNESS 1.5-7 CM."
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0003",
+        "Info": "NO TREATMENT APPLIED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "12",
+      "Fat": "2",
+      "Carbohydrate": "84",
+      "Fiber": "2",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000530",
+    "ItalianName": "Pane bianco",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000530",
+    "ScientificName": "",
+    "EnglishName": "Bread,  flour type 0",
+    "Information": "Prodotto con farina di tipo 0",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "31.0",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "268",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1120",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "8.1",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "0.5",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Colesterolo (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "59.5",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "52.3",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "2",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "3.8",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Sodio (mg)",
+        "ValueFor100g": "293",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "17",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "77",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "0.7",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.06",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.06",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Niacina (mg)",
+        "ValueFor100g": "0.80",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0105",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING, THICKNESS 1.5-7 CM."
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "12",
+      "Fat": "2",
+      "Carbohydrate": "83",
+      "Fiber": "3",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000510",
+    "ItalianName": "Pane di segale",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000510",
+    "ScientificName": "",
+    "EnglishName": "Rye bread",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "37.0",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "228",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "954",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "8.3",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "1.7",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "45.4",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "39.5",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "1.8",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "4.6",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Sodio (mg)",
+        "ValueFor100g": "580",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Potassio (mg)",
+        "ValueFor100g": "190",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "80",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "160",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "2.5",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.29",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.05",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Niacina (mg)",
+        "ValueFor100g": "2.30",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "",
+        "DataSource": "B",
+        "Reference": "McCANCE R.A. and WIDDOWSON E.M. The composition of foods 5 ed. The Royal Society of Chemistry and Ministry of Agriculture, Fisheries and Food, 1991"
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1313",
+        "Info": "RYE"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0147",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING"
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "15",
+      "Fat": "7",
+      "Carbohydrate": "74",
+      "Fiber": "4",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000550",
+    "ItalianName": "Pane di tipo integrale",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000550",
+    "ScientificName": "",
+    "EnglishName": "Wholemeal bread",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "38.6",
+        "Procedures": "Drying",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "224",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "938",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "8.5",
+        "Procedures": "Protein calculated from total nitrogen",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "1.3",
+        "Procedures": "Solvent extraction",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Colesterolo (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "44.1",
+        "Procedures": "Carbohydrate, available calculated from sugar and starch",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T. Food Composition Data- production, management and use Elsevier Applied Science London and New York, 1992"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "38.2",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "2",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "6.5",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra solubile (g)",
+        "ValueFor100g": "1.15",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra insolubile (g)",
+        "ValueFor100g": "5.36",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Sodio (mg)",
+        "ValueFor100g": "511",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Potassio (mg)",
+        "ValueFor100g": "198",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "25",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "180",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "2.5",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.10",
+        "Procedures": "Fluorimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.12",
+        "Procedures": "Fluorimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "ALTRI COMPOSTI",
+        "Description": "Acido fitico (g)",
+        "ValueFor100g": "0.60",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "HARLAND B.F. and OBERLEAS D. A modified method for phytate analysis using an ion-exchange procedure: application to textured vegetable proteins Cereal Chem, 54, 1977"
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0133",
+        "Info": "SEED, SKIN PRESENT, GERM PRESENT"
+      },
+      {
+        "Id": "E0147",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING"
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "15",
+      "Fat": "5",
+      "Carbohydrate": "74",
+      "Fiber": "6",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000540",
+    "ItalianName": "Pane di tipo semintegrale",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000540",
+    "ScientificName": "",
+    "EnglishName": "Bread,  flour type 1",
+    "Information": "Prodotto con farina di tipo 1",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "34.0",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "239",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1001",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "8.3",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "0.3",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Colesterolo (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "52.0",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "45.3",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "2.2",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "4.2",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "13",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "77",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "1.4",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.08",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.07",
+        "Procedures": "Analytical or calculation method not known",
+        "DataSource": "A",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0147",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING"
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "14",
+      "Fat": "1",
+      "Carbohydrate": "81",
+      "Fiber": "4",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/000560",
+    "ItalianName": "Pane formato rosetta",
+    "Category": "Cereali e derivati",
+    "FoodCode": "000560",
+    "ScientificName": "",
+    "EnglishName": "Bread,  flour type 00, rosetta",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "50 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "30.7",
+        "Procedures": "Drying",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "275",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1152",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "9.0",
+        "Procedures": "Protein calculated from total nitrogen",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "1.9",
+        "Procedures": "Solvent extraction",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Colesterolo (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "57.6",
+        "Procedures": "Carbohydrate, available calculated from sugar and starch",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T. Food Composition Data- production, management and use Elsevier Applied Science London and New York, 1992"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "45.5",
+        "Procedures": "Enzyme hydrolysis",
+        "DataSource": "A",
+        "Reference": "ENGLYST H. N., ANDERSON V. E CUMMINGS J. H. Starch and non-starch polysaccharides in some cereal foods J. Sci. Food Agric. 34, 1434-1440, 1983"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "7.5",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "SOUTHGATE D.A.T. Determination of food carbohydrates London: Applied Science Publishers, 1976"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "3.1",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra solubile (g)",
+        "ValueFor100g": "1.46",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra insolubile (g)",
+        "ValueFor100g": "1.63",
+        "Procedures": "Enzymatic-gravimetric method",
+        "DataSource": "A",
+        "Reference": "PROSKY L., ASP N.-G., SCHWEIZER T.F., DEVRIES J. W. and FURDA I. Determination of insoluble, soluble and total dietary fiber in foods and food products: interlaboratory study J. Assoc. Off. Anal. Chem. 71, 1988"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Sodio (mg)",
+        "ValueFor100g": "317",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Potassio (mg)",
+        "ValueFor100g": "103",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "20",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Magnesio (mg)",
+        "ValueFor100g": "15",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "1",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Rame (mg)",
+        "ValueFor100g": "0.19",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Zinco (mg)",
+        "ValueFor100g": "0.37",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Selenio (\u03BCg)",
+        "ValueFor100g": "2",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Tiamina (mg)",
+        "ValueFor100g": "0.04",
+        "Procedures": "Fluorimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Riboflavina (mg)",
+        "ValueFor100g": "0.02",
+        "Procedures": "Fluorimetric method",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Niacina (mg)",
+        "ValueFor100g": "1.01",
+        "Procedures": "Microbiological assay",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina A retinolo equivalente (\u03BCg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Lisina",
+        "ValueFor100g": "2.16",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Istidina",
+        "ValueFor100g": "2.13",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Arginina",
+        "ValueFor100g": "3.63",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Acido aspartico",
+        "ValueFor100g": "4.69",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Treonina",
+        "ValueFor100g": "2.88",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Serina",
+        "ValueFor100g": "5.43",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Acido glutammico",
+        "ValueFor100g": "31.77",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Prolina",
+        "ValueFor100g": "11.36",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Glicina",
+        "ValueFor100g": "3.63",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Alanina",
+        "ValueFor100g": "3.19",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Cistina",
+        "ValueFor100g": "2.49",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SCHRAM E., MOORE S. and BIGWOOD E.J. Chromatographic determination of cystine as cysteic acid Biochem J., 57, 33, 1954"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Valina",
+        "ValueFor100g": "5.21",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Metionina",
+        "ValueFor100g": "1.74",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SCHRAM E., MOORE S. and BIGWOOD E.J. Chromatographic determination of cystine as cysteic acid Biochem J., 57, 33, 1954"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Isoleucina",
+        "ValueFor100g": "4.16",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Leucina",
+        "ValueFor100g": "7.68",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Tirosina",
+        "ValueFor100g": "2.71",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Fenilalanina",
+        "ValueFor100g": "4.98",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SPACKMAN D.H., STEIN W.H. and MOORE S. Automatic recording apparatus for use in the chromatography of amino acids Anal. Chem., 30, 1190, 1958"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Triptofano",
+        "ValueFor100g": "0.91",
+        "Procedures": "Chromatography",
+        "DataSource": "A",
+        "Reference": "SCHRAM E., MOORE S. and BIGWOOD E.J. Chromatographic determination of cystine as cysteic acid Biochem J., 57, 33, 1954"
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Indice Chimico",
+        "ValueFor100g": "48",
+        "Procedures": "Calculation methods",
+        "DataSource": "C",
+        "Reference": ""
+      },
+      {
+        "Category": "AMINOACIDI (% di proteine)",
+        "Description": "Aminoacido limitante",
+        "ValueFor100g": "Lisina",
+        "Procedures": "Calculation methods",
+        "DataSource": "C",
+        "Reference": ""
+      },
+      {
+        "Category": "ALTRI COMPOSTI",
+        "Description": "Acido fitico (g)",
+        "ValueFor100g": "0.05",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "HARLAND B.F. and OBERLEAS D. A modified method for phytate analysis using an ion-exchange procedure: application to textured vegetable proteins Cereal Chem, 54, 1977"
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0178",
+        "Info": "BREAD (US CFR)"
+      },
+      {
+        "Id": "A0691",
+        "Info": "01  BREAD AND ROLLS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0768",
+        "Info": "078  MANUFACTURED MULTI-INGREDIENT CEREAL PRODUCTS (CP) (CCPR)"
+      },
+      {
+        "Id": "A0818",
+        "Info": "LEAVENED BREAD (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0105",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING, THICKNESS 1.5-7 CM."
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0003",
+        "Info": "NO PRESERVATION METHOD USED"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      }
+    ],
+    "ChartData": {
+      "Protein": "13",
+      "Fat": "6",
+      "Carbohydrate": "79",
+      "Fiber": "2",
+      "Alcohol": "0"
+    }
+  },
+  {
+    "Url": "https://www.alimentinutrizione.it/tabelle-nutrizionali/216000",
+    "ItalianName": "Panettone",
+    "Category": "Dolci",
+    "FoodCode": "216000",
+    "ScientificName": "",
+    "EnglishName": "Panettone,",
+    "Information": "",
+    "NumberOfSamples": "",
+    "EatablePartpercentage": "100 %",
+    "Portion": "100 g",
+    "Nutritions": [
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Acqua (g)",
+        "ValueFor100g": "26.9",
+        "Procedures": "Drying",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kcal)",
+        "ValueFor100g": "337",
+        "Procedures": "Energy calculated according to Southgate (kcal)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Energia (kJ)",
+        "ValueFor100g": "1409",
+        "Procedures": "Energy calculated according to Southgate (kJ)",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T.  Food Composition Data- Production, Management and  Use. Ed: FAO, Rome; 2003"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Proteine (g)",
+        "ValueFor100g": "6.4",
+        "Procedures": "Protein calculated from total nitrogen",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Lipidi (g)",
+        "ValueFor100g": "10.7",
+        "Procedures": "Solvent extraction",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists. 2vols. 15th ed. Washington, DC, 1990"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Carboidrati disponibili (g)",
+        "ValueFor100g": "56.2",
+        "Procedures": "Carbohydrate, available calculated from sugar and starch",
+        "DataSource": "C",
+        "Reference": "GREENFIELD H. and SOUTHGATE D.A.T. Food Composition Data- production, management and use Elsevier Applied Science London and New York, 1992"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Amido (g)",
+        "ValueFor100g": "30.3",
+        "Procedures": "Enzyme hydrolysis",
+        "DataSource": "A",
+        "Reference": "ENGLYST H. N., ANDERSON V. E CUMMINGS J. H. Starch and non-starch polysaccharides in some cereal foods J. Sci. Food Agric. 34, 1434-1440, 1983"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Zuccheri solubili (g)",
+        "ValueFor100g": "22.9",
+        "Procedures": "Colorimetric method",
+        "DataSource": "A",
+        "Reference": "SOUTHGATE D.A.T. Determination of food carbohydrates London: Applied Science Publishers, 1976"
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Alcool (g)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MACRO NUTRIENTI",
+        "Description": "Fibra totale (g)",
+        "ValueFor100g": "2.1",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Calcio (mg)",
+        "ValueFor100g": "149",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Fosforo (mg)",
+        "ValueFor100g": "130",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "MINERALI",
+        "Description": "Ferro (mg)",
+        "ValueFor100g": "3",
+        "Procedures": "Atomic emission spectroscopy",
+        "DataSource": "A",
+        "Reference": "AOAC. Official methods of analysis of the Association of Official Analytical Chemists.14th ed. Washington, DC, 1984"
+      },
+      {
+        "Category": "VITAMINE",
+        "Description": "Vitamina C (mg)",
+        "ValueFor100g": "0",
+        "Procedures": "Imputation",
+        "DataSource": "S",
+        "Reference": ""
+      }
+    ],
+    "LangualCodes": [
+      {
+        "Id": "A0210",
+        "Info": "CAKE (US CFR)"
+      },
+      {
+        "Id": "A0663",
+        "Info": "15  MANUFACTURED FOODS (MULTI-INGREDIENT) OF PLANT ORIGIN (CCPR)"
+      },
+      {
+        "Id": "A0695",
+        "Info": "05  BAKERY PRODUCTS (EFG)"
+      },
+      {
+        "Id": "A0729",
+        "Info": "06  GRAINS AND GRAIN PRODUCTS (EUROCODE2)"
+      },
+      {
+        "Id": "A0821",
+        "Info": "FINE BAKERY WARE (EUROFIR)"
+      },
+      {
+        "Id": "B1421",
+        "Info": "SOFT WHEAT"
+      },
+      {
+        "Id": "C0208",
+        "Info": "SEED, SKIN REMOVED, GERM REMOVED (ENDOSPERM)"
+      },
+      {
+        "Id": "E0146",
+        "Info": "WHOLE, SHAPE ACHIEVED BY FORMING, THICKNESS BIGGER THAN 7 CM."
+      },
+      {
+        "Id": "F0014",
+        "Info": "FULLY HEAT-TREATED"
+      },
+      {
+        "Id": "G0005",
+        "Info": "BAKED OR ROASTED"
+      },
+      {
+        "Id": "H0136",
+        "Info": "SUGAR OR SUGAR SYRUP ADDED"
+      },
+      {
+        "Id": "H0186",
+        "Info": "EGG ADDED"
+      },
+      {
+        "Id": "H0221",
+        "Info": "FAT OR OIL ADDED"
+      },
+      {
+        "Id": "H0256",
+        "Info": "CARBOHYDRATE FERMENTED"
+      },
+      {
+        "Id": "H0364",
+        "Info": "DRIED OR CANDIED FRUIT ADDED"
+      },
+      {
+        "Id": "H0753",
+        "Info": "YEAST ADDED"
+      },
+      {
+        "Id": "J0001",
+        "Info": "PRESERVATION METHOD NOT KNOWN"
+      },
+      {
+        "Id": "K0003",
+        "Info": "NO PACKING MEDIUM USED"
+      },
+      {
+        "Id": "M0001",
+        "Info": "CONTAINER OR WRAPPING NOT KNOWN"
+      },
+      {
+        "Id": "N0001",
+        "Info": "FOOD CONTACT SURFACE NOT KNOWN"
+      },
+      {
+        "Id": "P0024",
+        "Info": "HUMAN CONSUMER, NO AGE SPECIFICATION"
+      },
+      {
+        "Id": "R0001",
+        "Info": "GEOGRAPHIC PLACE OR REGION NOT KNOWN"
+      },
+      {
+        "Id": "Z0112",
+        "Info": "FOOD INDUSTRY PREPARED"
+      }
+    ],
+    "ChartData": {
+      "Protein": "8",
+      "Fat": "29",
+      "Carbohydrate": "62",
+      "Fiber": "1",
+      "Alcohol": "0"
+    }
+  }
+]

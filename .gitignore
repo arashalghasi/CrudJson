@@ -1,0 +1,12 @@
+﻿# Ignores EveryThing
+
+*
+
+# Not Ignore
+!*.cs
+!*.json
+!*.md
+!.gitignore
+!LICENSE
+!*.
+!*.png
